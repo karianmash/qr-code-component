@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+Frontend mentor challenge!
 
-# Demo 
+# [Demo](https://qr-code-component-delta-five.vercel.app/)
